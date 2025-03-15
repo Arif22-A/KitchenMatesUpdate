@@ -1,3 +1,3 @@
-1.0.8
-https://github.com/Arif22-A/KitchenMatesUpdate/releases/download/v1.0.8/Kitchen.Mates.apk
+1.0.9
+https://github.com/Arif22-A/KitchenMatesUpdate/releases/download/v1.0.9/Kitchen.Mates.apk
 
